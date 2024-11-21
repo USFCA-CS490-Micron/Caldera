@@ -93,14 +93,42 @@ Our wearable AI system prioritizes **privacy**, **speed**, and **response qualit
 ---
 
 ## **Tech Stack**
-| Component                 | Technology/Service                          |
-|---------------------------|---------------------------------------------|
-| **Wearable Device**       | Brilliant Frame Glasses                    |
-| **Local Processing**      | Raspberry Pi 5, Llama API, Ollama, Whisper |
-| **Private Relay**         | Flask, AWS/GCP/DigitalOcean VPS            |
-| **Cloud Models**          | OpenAI GPT-4o, Google Cloud Vision, GNL    |
-| **Programming Languages** | Python, Lua                                |
-| **Frameworks**            | Flask, Hugging Face (DistilBERT)           |
+
+<table>
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Technology/Service</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Wearable Device</strong></td>
+      <td>Brilliant Frame Glasses</td>
+    </tr>
+    <tr>
+      <td><strong>Local Processing</strong></td>
+      <td>Raspberry Pi 5, Llama API, Ollama, Whisper</td>
+    </tr>
+    <tr>
+      <td><strong>Private Relay</strong></td>
+      <td>Flask, AWS/GCP/DigitalOcean VPS</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud Models</strong></td>
+      <td>OpenAI GPT-4o, Google Cloud Vision, GNL</td>
+    </tr>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>Python, Lua</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks</strong></td>
+      <td>Flask, Hugging Face (DistilBERT)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
