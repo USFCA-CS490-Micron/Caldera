@@ -1,7 +1,7 @@
 # Caldera
 
 ### **Team Members**
-Andrew Moore, Jack Guo, Max Villarreal-Blozis, Nick Eastham
+Andrew Moore, Maximiliano Villarreal-Blozis, Nick Eastham, Jack Guo
 
 ---
 
